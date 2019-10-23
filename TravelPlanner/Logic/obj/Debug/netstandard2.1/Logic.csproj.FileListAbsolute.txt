@@ -1,0 +1,8 @@
+D:\Windows\OneDrive - HTBLA Perg\Alexander\AF_MobileComputing\5. Jahrgang\TravelPlanner\travel-planner-api-BrunnerAlexander\TravelPlanner\Logic\bin\Debug\netstandard2.1\Logic.deps.json
+D:\Windows\OneDrive - HTBLA Perg\Alexander\AF_MobileComputing\5. Jahrgang\TravelPlanner\travel-planner-api-BrunnerAlexander\TravelPlanner\Logic\bin\Debug\netstandard2.1\Logic.dll
+D:\Windows\OneDrive - HTBLA Perg\Alexander\AF_MobileComputing\5. Jahrgang\TravelPlanner\travel-planner-api-BrunnerAlexander\TravelPlanner\Logic\bin\Debug\netstandard2.1\Logic.pdb
+D:\Windows\OneDrive - HTBLA Perg\Alexander\AF_MobileComputing\5. Jahrgang\TravelPlanner\travel-planner-api-BrunnerAlexander\TravelPlanner\Logic\obj\Debug\netstandard2.1\Logic.csprojAssemblyReference.cache
+D:\Windows\OneDrive - HTBLA Perg\Alexander\AF_MobileComputing\5. Jahrgang\TravelPlanner\travel-planner-api-BrunnerAlexander\TravelPlanner\Logic\obj\Debug\netstandard2.1\Logic.AssemblyInfoInputs.cache
+D:\Windows\OneDrive - HTBLA Perg\Alexander\AF_MobileComputing\5. Jahrgang\TravelPlanner\travel-planner-api-BrunnerAlexander\TravelPlanner\Logic\obj\Debug\netstandard2.1\Logic.AssemblyInfo.cs
+D:\Windows\OneDrive - HTBLA Perg\Alexander\AF_MobileComputing\5. Jahrgang\TravelPlanner\travel-planner-api-BrunnerAlexander\TravelPlanner\Logic\obj\Debug\netstandard2.1\Logic.dll
+D:\Windows\OneDrive - HTBLA Perg\Alexander\AF_MobileComputing\5. Jahrgang\TravelPlanner\travel-planner-api-BrunnerAlexander\TravelPlanner\Logic\obj\Debug\netstandard2.1\Logic.pdb
